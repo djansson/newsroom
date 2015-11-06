@@ -131,6 +131,9 @@ INSTALLED_APPS.extend([
 
     'aap.import_text_archive',
     'aap_mm',
+
+    'citizendesk.superdesk_whatsapp',
+    'citizendesk.superdesk_hook_receiver',
 ])
 
 RENDITIONS = {
