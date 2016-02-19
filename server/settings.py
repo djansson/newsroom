@@ -134,6 +134,7 @@ INSTALLED_APPS.extend([
 
     'citizendesk.superdesk_whatsapp',
     'citizendesk.superdesk_hook_receiver',
+    'citizendesk.superdesk_feedparser_clickatell',
 ])
 
 RENDITIONS = {
